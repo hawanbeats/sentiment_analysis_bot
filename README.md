@@ -7,8 +7,6 @@ This project is **a Streamlit application** that **analyzes the sentiment of use
 - ✅ Sentiment Analysis: Analyzes the sentiment of input text (positive, negative, or neutral).
 - ✅ Confidence Score: Displays how confident the model is in its prediction.
 
-  ---
-
 ## 🛠️ How It Works
 - The user enters a text in the input box.
 - When the "Analyze" button is clicked, the model analyzes the sentiment of the text.
